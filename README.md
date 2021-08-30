@@ -1,1 +1,1 @@
-# solving-sodoku-using-opencv-pythpn
+# solving-sodoku-using-opencv-python
